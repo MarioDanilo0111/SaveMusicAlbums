@@ -1,0 +1,95 @@
+.starting {
+  height: 60px;
+  margin: 0px 30px 0px 110px;
+}
+.input-user {
+  max-width: 15px;
+  min-height: 0px;
+  margin: 90px 30px 0px 100px;
+}
+select {
+  width: 233px;
+  height: 26px;
+  font-size: 20px;
+  text-align: center, right;
+}
+.second-title {
+  color: rgba(228, 203, 178, 0.861);
+
+  /* margin: 10px 0px 0px 90px; */
+  padding: 6px;
+}
+h3 {
+  font-size: 30px;
+}
+
+.btn-plus {
+  margin: 20px 1px 10px 350px;
+  padding: 0;
+  border: none;
+  background-color: transparent;
+  color: deepskyblue;
+}
+input {
+  height: 35px;
+  width: 230px;
+  text-align: center, left;
+}
+
+/* input {
+  text-align: left !important;
+}
+textarea {
+  text-align: right !important;
+}
+label {
+  float: right !important;
+} */
+.input-item {
+  font-size: 17px;
+  margin: 9px 0 0px 10px;
+  border-radius: 9px;
+  background-color: aqua;
+  color: black;
+}
+
+.input-item:hover {
+  transform: scale(1.03);
+}
+
+.input-select {
+  width: 300px;
+  margin: 6px 0px 100px 0px;
+  border-width: 0;
+  height: 6px;
+  border-radius: 16px 0px 21px 0px;
+  background-image: linear-gradient(
+    to right,
+    rgba(36, 104, 205, 0),
+    rgb(80, 134, 228),
+    rgb(73, 227, 225)
+  );
+  box-shadow: 0 10px 18px -16px #d2c3c337 inset;
+}
+
+@media screen and (max-width: 480px) {
+  .starting {
+    margin-left: 60px;
+    height: 30px;
+  }
+  .second-title {
+    font-size: 15px;
+    margin: 10px 30px 0px 0px;
+    padding: 0;
+  }
+  .input-select {
+    width: 200px;
+    margin: 10px 190px 0px 0px;
+  }
+  .input-user {
+    margin-left: 60px;
+  }
+  .btn-plus {
+    margin: 50px 0px 0px 175px;
+  }
+}

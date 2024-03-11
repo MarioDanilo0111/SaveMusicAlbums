@@ -1,0 +1,52 @@
+{
+  "genres": [
+    {
+      "id": 0,
+      "name": "Grunge"
+    },
+    {
+      "id": 1,
+      "name": "Rock"
+    },
+    {
+      "id": 2,
+      "name": "Jazz"
+    },
+    {
+      "id": 3,
+      "name": "Pop"
+    },
+    {
+      "id": 4,
+      "name": "Hiphop"
+    },
+    {
+      "id": 5,
+      "name": "Reggae"
+    },
+    {
+      "id": 6,
+      "name": "Reggaeton"
+    },
+    {
+      "id": 7,
+      "name": "Ska"
+    },
+    {
+      "id": 8,
+      "name": "Blues"
+    },
+    {
+      "id": 9,
+      "name": "R&B"
+    },
+    {
+      "id": 10,
+      "name": "Soul"
+    },
+    {
+      "id": 11,
+      "name": "Funk"
+    }
+  ]
+}

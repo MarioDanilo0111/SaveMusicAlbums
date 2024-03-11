@@ -1,0 +1,89 @@
+.input-user-update {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  flex-direction: column;
+  margin-right: 110px;
+}
+.input-title-update {
+  color: rgba(228, 203, 178, 0.861);
+  font-size: 20px;
+  margin: 10px 290px 0px 0px;
+  display: flex;
+  justify-content: flex-end;
+  /* overflow: hidden; */
+}
+
+.input-item-update {
+  margin: 10px 9px 6px 900px;
+  border-radius: 9px;
+  background-color: aqua;
+}
+
+.input-item-update:hover {
+  transform: scale(1.03);
+}
+
+.input-line-update {
+  width: 300px;
+  margin: 10px 0px 0px 830px;
+}
+hr {
+  width: 90%;
+  border-width: 0;
+  height: 6px;
+  border-radius: 16px 0px 21px 0px;
+  background-image: linear-gradient(
+    to right,
+    rgba(0, 0, 0, 0),
+    rgb(80, 134, 228),
+    rgb(44, 236, 232)
+  );
+  box-shadow: 0 10px 18px -16px #d2c3c337 inset;
+}
+.btn {
+  margin: -50px 0px 0px 760px;
+  border: none;
+  background-color: transparent;
+  color: deepskyblue;
+}
+.btn:hover {
+  transform: scale(1.03);
+}
+.btn-upD {
+  margin: 50px 0px 0px 30px;
+}
+
+@media screen and (max-width: 768px) {
+  .input-title-update {
+    margin: 0px 100px 0px 0px;
+  }
+  h3 {
+    font-size: 29px;
+  }
+  .btn-upD {
+    margin: 30px 0px 30px 30px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .input-user-update {
+    margin: 9px 30px 0px 0px;
+  }
+  .input-title-update {
+    font-size: 17px;
+    margin: 0px 19px 0px 0px;
+  }
+  .input-line-update hr {
+    margin: 0px 0px 9px 260px;
+    /* margin-right: 60px; */
+    width: 250px;
+  }
+  .input-item-update {
+    margin: 9px 10px 10px 1130px;
+  }
+  .btn {
+    margin: -16px 10px 0px 1056px;
+    padding: 0px;
+  }
+}

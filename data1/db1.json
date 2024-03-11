@@ -1,0 +1,67 @@
+{
+  "albums": [
+    {
+      "name": "",
+      "band": "No More Drama",
+      "year": 2001,
+      "genresId": 9,
+      "id": 10
+    },
+    {
+      "name": "Ten  Even Flow",
+      "band": "Pearl Jam",
+      "year": 1991,
+      "genresId": 0,
+      "id": 11
+    },
+    {
+      "name": "Hell on Earth",
+      "band": "Mobb Depp",
+      "year": 1995,
+      "genresId": 4,
+      "id": 12
+    },
+    {
+      "name": "Catch your Fire",
+      "band": "Bob Marley",
+      "year": 1974,
+      "genresId": 5,
+      "id": 13
+    },
+    {
+      "name": "jkasnda",
+      "band": "lömlk",
+      "year": 1977,
+      "genresId": 2,
+      "id": 14
+    },
+    {
+      "name": "georg",
+      "band": "george Michael ",
+      "year": 1994,
+      "genresId": 10,
+      "id": 15
+    },
+    {
+      "name": "km",
+      "band": "lköm,",
+      "year": 9999,
+      "genresId": 0,
+      "id": 16
+    },
+    {
+      "name": "Agustin Mateo",
+      "band": "Agusti en Suecia ",
+      "year": 2013,
+      "genresId": 1,
+      "id": 17
+    },
+    {
+      "name": "TXT.Album",
+      "band": "TXT",
+      "year": 2019,
+      "genresId": 3,
+      "id": 18
+    }
+  ]
+}
