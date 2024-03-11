@@ -30,7 +30,6 @@ This will start the application and the JSON server for data handling.
 
 The application utilizes the following dependencies:
 
-- axios
 - react
 - react-dom
 - react-hook-form
